@@ -1,0 +1,30 @@
+#header,
+#main-content1,
+#footer {
+    border:1px solid black;
+}
+
+#header,
+#footer {
+    text-align: center;
+    background-color: lightgoldenrodyellow;
+}
+
+.exp-list li li {
+    list-style-type: none;
+}
+
+#nav li {
+    list-style-type: none;
+    display: inline-block;
+    text-align: center;
+    padding: 2px;
+}
+
+#footer li {
+    list-style-type: none;
+}
+
+#main-content1 {
+    padding-left: 10px;
+}
